@@ -1,0 +1,52 @@
+[
+    {
+        "parameter_relative_url" : "SaiSurya3003/AdventureWorks_DataEngineering/refs/heads/main/Data/AdventureWorks_Product_Categories.csv",
+        "parameter_sink_folder" : "AdventureWorks_Product_Categories",
+        "parameter_filename" : "AdventureWorks_Product_Categories.csv"
+    },
+    {
+        "parameter_relative_url" : "SaiSurya3003/AdventureWorks_DataEngineering/refs/heads/main/Data/AdventureWorks_Calendar.csv",
+        "parameter_sink_folder" : "AdventureWorks_Calendar",
+        "parameter_filename" : "AdventureWorks_Calendar.csv"
+    },
+    {
+        "parameter_relative_url" : "SaiSurya3003/AdventureWorks_DataEngineering/refs/heads/main/Data/AdventureWorks_Customers.csv",
+        "parameter_sink_folder" : "AdventureWorks_Customers",
+        "parameter_filename" : "AdventureWorks_Customers.csv"
+    },
+    {
+        "parameter_relative_url" : "SaiSurya3003/AdventureWorks_DataEngineering/refs/heads/main/Data/AdventureWorks_Product_Subcategories.csv",
+        "parameter_sink_folder" : "Product_Subcategories",
+        "parameter_filename" : "AdventureWorks_Product_Subcategories.csv"
+    },
+    {
+        "parameter_relative_url" : "SaiSurya3003/AdventureWorks_DataEngineering/refs/heads/main/Data/AdventureWorks_Products.csv",
+        "parameter_sink_folder" : "AdventureWorks_Products",
+        "parameter_filename" : "AdventureWorks_Products.csv"
+    },
+    {
+        "parameter_relative_url" : "SaiSurya3003/AdventureWorks_DataEngineering/refs/heads/main/Data/AdventureWorks_Returns.csv",
+        "parameter_sink_folder" : "AdventureWorks_Returns",
+        "parameter_filename":"AdventureWorks_Returns.csv"
+    },
+    {
+        "parameter_relative_url" : "SaiSurya3003/AdventureWorks_DataEngineering/refs/heads/main/Data/AdventureWorks_Sales_2015.csv",
+        "parameter_sink_folder" : "AdventureWorks_Sales_2015",
+        "parameter_filename" : "AdventureWorks_Sales_2015.csv"
+    },
+    {
+        "parameter_relative_url" : "SaiSurya3003/AdventureWorks_DataEngineering/refs/heads/main/Data/AdventureWorks_Sales_2016.csv",
+        "parameter_sink_folder" : "AdventureWorks_Sales_2016",
+        "parameter_filename" : "AdventureWorks_Sales_2016.cvsv"
+    },
+    {
+        "parameter_relative_url" : "SaiSurya3003/AdventureWorks_DataEngineering/refs/heads/main/Data/AdventureWorks_Sales_2017.csv",
+        "parameter_sink_folder" : "AdventureWorks_Sales_2017",
+        "parameter_filename" : "AdventureWorks_Sales_2017.csv"
+    },
+    {
+        "parameter_relative_url" : "SaiSurya3003/AdventureWorks_DataEngineering/refs/heads/main/Data/AdventureWorks_Territories.csv",
+        "parameter_sink_folder" : "AdventureWorks_Territories",
+        "parameter_filename" : "AdventureWorks_Territories.csv"
+    }
+]
